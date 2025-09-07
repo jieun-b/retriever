@@ -1,0 +1,22 @@
+# Core ML
+torch==2.2.2
+torchvision==0.17.2
+
+# API & UI
+fastapi==0.116.1
+uvicorn==0.35.0
+streamlit==1.49.1
+requests==2.32.5
+
+# Utils
+numpy==2.0.1
+pandas==2.3.2
+Pillow==11.3.0
+opencv-python-headless==4.12.0.88
+python-dotenv==1.1.1
+
+# Vector DB
+faiss-cpu==1.12.0
+
+# Deployment
+docker==7.1.0
